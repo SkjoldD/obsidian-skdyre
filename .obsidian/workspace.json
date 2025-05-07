@@ -6,7 +6,6 @@
       {
         "id": "ffe00c1495441d09",
         "type": "tabs",
-        "dimension": 60.85526315789473,
         "children": [
           {
             "id": "d14bed8a7d23059e",
@@ -14,29 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Game project - Map2D/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "TODO"
             }
-          }
-        ]
-      },
-      {
-        "id": "875555749db20f22",
-        "type": "tabs",
-        "dimension": 39.14473684210527,
-        "children": [
+          },
           {
-            "id": "42ee429d64219ceb",
+            "id": "5bb14fb7a1822397",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing - Brainstorm afgænsning"
             }
           }
         ]
@@ -112,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game project - Map2D/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -130,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game project - Map2D/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -158,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Game project - Map2D/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of TODO"
             }
           }
         ]
@@ -180,11 +177,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42ee429d64219ceb",
+  "active": "d14bed8a7d23059e",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
+    "Pasted Image 20250507142623_504.png",
+    "Game project - Map2D/Brainstorm/Excalidraw/Drawing 2025-05-07 14.23.09.excalidraw.md",
+    "Game project - Map2D/Brainstorm/Canvas - Brainstorm afgrænsning.canvas",
+    "Game project - Map2D/Brainstorm/Excalidraw",
+    "Game project - Map2D/TODO.md",
+    "Game project - Map2D/Brainstorm",
+    "Game project - Map2D/Project details.md",
+    "Welcome.md",
+    "Game project - Map2D"
   ]
 }
