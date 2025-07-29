@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
+                "file": "Game project - Map2D/Project details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing - Brainstorm afgænsning"
+              "title": "Backlinks for Project details"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
+                "file": "Game project - Map2D/Project details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing - Brainstorm afgænsning"
+              "title": "Outgoing links from Project details"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
+                "file": "Game project - Map2D/Project details.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing - Brainstorm afgænsning"
+              "title": "Outline of Project details"
             }
           }
         ]
@@ -214,6 +214,7 @@
   },
   "active": "0918b910e09828e5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Untitled.md",
     "Begivenheder/2025 camping weekend.md",
     "Pasted image 20250716093613.png",
@@ -234,11 +235,17 @@
     "AKA",
     "Game project - Map2D/Pasted Image 20250507152209_804.png",
     "Game project - Map2D/TODO.md",
+=======
+    "Game project - Map2D/Project details.md",
+    "Game project - Map2D/TODO.md",
+    "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
+    "Pasted Image 20250507152209_804.png",
+    "Pasted Image 20250507142623_504.png",
+>>>>>>> 204d7a3c9f0e2ea6970d7c567d65753bd61fbd08
     "Game project - Map2D/Brainstorm/Excalidraw/Drawing 2025-05-07 14.23.09.excalidraw.md",
     "Game project - Map2D/Brainstorm/Canvas - Brainstorm afgrænsning.canvas",
     "Game project - Map2D/Brainstorm/Excalidraw",
     "Game project - Map2D/Brainstorm",
-    "Game project - Map2D/Project details.md",
     "Welcome.md",
     "Game project - Map2D"
   ]
