@@ -11,27 +11,60 @@
             "id": "d14bed8a7d23059e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md"
+                "file": "AKA/2025-05-26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing - Brainstorm afgænsning"
+              "icon": "lucide-file",
+              "title": "2025-05-26"
+            }
+          },
+          {
+            "id": "f0f7249fafddf350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AKA/2025-06-10 Drift & Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-10 Drift & Research"
             }
           },
           {
             "id": "5bb14fb7a1822397",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md"
+                "file": "AKA/2025-07-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing - Brainstorm afgænsning"
+              "icon": "lucide-file",
+              "title": "2025-07-21"
+            }
+          },
+          {
+            "id": "0918b910e09828e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begivenheder/2025 camping weekend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 camping weekend"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,12 +212,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d14bed8a7d23059e",
+  "active": "0918b910e09828e5",
   "lastOpenFiles": [
-    "Pasted Image 20250507152209_804.png",
-    "Game project - Map2D/TODO.md",
+    "Untitled.md",
+    "Begivenheder/2025 camping weekend.md",
+    "Pasted image 20250716093613.png",
+    "Begivenheder",
+    "AKA/2025-07-21.md",
+    "AKA/2025-07-16.md",
+    "2025-07-16.md",
     "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
-    "Pasted Image 20250507142623_504.png",
+    "AKA/Untitled.md",
+    "AKA/2025-06-10 Drift & Research.md",
+    "AKA/Bilag/Billeder",
+    "AKA/Bilag",
+    "AKA/Bilag/Billeder/{293B6314-7F1E-4965-89DD-D3C08E6332A4}.png",
+    "AKA/2025-05-26.md",
+    "AKA/Pasted image 20250526112600.png",
+    "AKA/Pasted image 20250526112436.png",
+    "Game project - Map2D/Pasted Image 20250507142623_504.png",
+    "AKA",
+    "Game project - Map2D/Pasted Image 20250507152209_804.png",
+    "Game project - Map2D/TODO.md",
     "Game project - Map2D/Brainstorm/Excalidraw/Drawing 2025-05-07 14.23.09.excalidraw.md",
     "Game project - Map2D/Brainstorm/Canvas - Brainstorm afgrænsning.canvas",
     "Game project - Map2D/Brainstorm/Excalidraw",
