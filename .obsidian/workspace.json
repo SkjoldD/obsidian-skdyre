@@ -1,56 +1,14 @@
 {
   "main": {
-    "id": "4b3dc479b4c1aaf2",
+    "id": "59d9dc6cd3504f76",
     "type": "split",
     "children": [
       {
-        "id": "ffe00c1495441d09",
+        "id": "2e964736789224ee",
         "type": "tabs",
         "children": [
           {
-            "id": "d14bed8a7d23059e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKA/2025-05-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-26"
-            }
-          },
-          {
-            "id": "f0f7249fafddf350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKA/2025-06-10 Drift & Research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-10 Drift & Research"
-            }
-          },
-          {
-            "id": "5bb14fb7a1822397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKA/2025-07-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-21"
-            }
-          },
-          {
-            "id": "0918b910e09828e5",
+            "id": "1bbf6e60e6969fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,22 +21,21 @@
               "title": "2025 camping weekend"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f4e38a36b27194d5",
+    "id": "7f94725056699539",
     "type": "split",
     "children": [
       {
-        "id": "1b261f4f13c95f96",
+        "id": "259b60db40a51e05",
         "type": "tabs",
         "children": [
           {
-            "id": "6e7410bff95835b9",
+            "id": "79b086e4cdb34265",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +48,7 @@
             }
           },
           {
-            "id": "9ce6a334e90152d6",
+            "id": "64123c137da35a02",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +65,7 @@
             }
           },
           {
-            "id": "1edb14551bce5dea",
+            "id": "641743f8f1729c47",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "fd68e4ad6adc0d52",
+    "id": "af197d4daf65f922",
     "type": "split",
     "children": [
       {
-        "id": "2cbca4433de1961c",
+        "id": "0146a39cdc97631c",
         "type": "tabs",
         "children": [
           {
-            "id": "a25e06ed2bff4a3a",
+            "id": "9824f4ec3ce324b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game project - Map2D/Project details.md",
+                "file": "Begivenheder/2025 camping weekend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project details"
+              "title": "Backlinks for 2025 camping weekend"
             }
           },
           {
-            "id": "3f0cd876a6927c53",
+            "id": "ae230450bda111e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game project - Map2D/Project details.md",
+                "file": "Begivenheder/2025 camping weekend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Project details"
+              "title": "Outgoing links from 2025 camping weekend"
             }
           },
           {
-            "id": "56f3204fd5e4ffe3",
+            "id": "cb8d22ccd5c35d2e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,18 +137,18 @@
             }
           },
           {
-            "id": "7d393c18a4a7fee6",
+            "id": "6eaab241cd7db439",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game project - Map2D/Project details.md",
+                "file": "Begivenheder/2025 camping weekend.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project details"
+              "title": "Outline of 2025 camping weekend"
             }
           }
         ]
@@ -212,41 +169,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0918b910e09828e5",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Untitled.md",
-    "Begivenheder/2025 camping weekend.md",
-    "Pasted image 20250716093613.png",
-    "Begivenheder",
-    "AKA/2025-07-21.md",
-    "AKA/2025-07-16.md",
-    "2025-07-16.md",
-    "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
-    "AKA/Untitled.md",
-    "AKA/2025-06-10 Drift & Research.md",
-    "AKA/Bilag/Billeder",
-    "AKA/Bilag",
-    "AKA/Bilag/Billeder/{293B6314-7F1E-4965-89DD-D3C08E6332A4}.png",
-    "AKA/2025-05-26.md",
-    "AKA/Pasted image 20250526112600.png",
-    "AKA/Pasted image 20250526112436.png",
-    "Game project - Map2D/Pasted Image 20250507142623_504.png",
-    "AKA",
-    "Game project - Map2D/Pasted Image 20250507152209_804.png",
-    "Game project - Map2D/TODO.md",
-=======
-    "Game project - Map2D/Project details.md",
-    "Game project - Map2D/TODO.md",
-    "Game project - Map2D/Brainstorm/Drawing - Brainstorm afgænsning.md",
-    "Pasted Image 20250507152209_804.png",
-    "Pasted Image 20250507142623_504.png",
->>>>>>> 204d7a3c9f0e2ea6970d7c567d65753bd61fbd08
-    "Game project - Map2D/Brainstorm/Excalidraw/Drawing 2025-05-07 14.23.09.excalidraw.md",
-    "Game project - Map2D/Brainstorm/Canvas - Brainstorm afgrænsning.canvas",
-    "Game project - Map2D/Brainstorm/Excalidraw",
-    "Game project - Map2D/Brainstorm",
-    "Welcome.md",
-    "Game project - Map2D"
-  ]
+  "active": "1bbf6e60e6969fec",
+  "lastOpenFiles": []
 }
